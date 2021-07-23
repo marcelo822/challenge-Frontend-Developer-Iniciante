@@ -16,7 +16,6 @@ Esta **landing page** foi criada com a proposta de entrega um desing simples e f
 No projeto foi utilizada as seguinte linguagens;
 - html5
 - css3
-- javascript
 ## Ferramentas utilisada 
 - VScode 
 - photoshop.
