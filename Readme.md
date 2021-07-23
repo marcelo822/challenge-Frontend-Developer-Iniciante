@@ -44,9 +44,13 @@ Caso queira troca o logo e adicionar link
 
 ---
 ### No caso na troca do [logo](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css) sera necesario ascessar [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=li) e copiar o texo que esta na imagem.
+
 <h1>
+
    <img src="imagens/tlink.jpg">
+   
 </h1>
+
 e colar em  "i"
 
 ``` html
@@ -54,8 +58,11 @@ e colar em  "i"
 
 ```
 exemplo:
+
 <h1>
+
    <img src="imagens/tlink2.jpg">
+
 </h1>
 
 ### Classes com possivel troca dos logos;
@@ -65,10 +72,12 @@ exemplo:
 ### na troca de imagens e o  plano de fundo sera nescesario;
 
 ``` html 
+
 <div class="picbx">
     <!--para troca a imagem e so subistituir o diretorio q esta dentro da aspas-->
                 <img src="imagens/pic.jpg">
             </div>
+
 ```
 ### a troca de plano de fundo funciona em todas as sessões
 
