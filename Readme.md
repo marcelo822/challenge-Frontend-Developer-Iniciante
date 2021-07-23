@@ -47,7 +47,7 @@ Caso queira troca o logo e adicionar link
 
 <h1>
 
-   <img src="imagens/tlink.jpg">
+   <img src="imagens/Tlink.jpg">
    
 </h1>
 
@@ -61,7 +61,7 @@ exemplo:
 
 <h1>
 
-   <img src="imagens/tlink2.jpg">
+   <img src="imagens/Tlink2.jpg">
 
 </h1>
 
