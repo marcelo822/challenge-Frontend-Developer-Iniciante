@@ -16,6 +16,8 @@ Esta **landing page** foi criada com a proposta de entrega um desing simples e f
 No projeto foi utilizada as seguinte linguagens;
 - html5
 - css3
+- javascript
+
 ## Ferramentas utilisada 
 - VScode 
 - photoshop.
@@ -103,3 +105,13 @@ section{
  - picbx
  - pro
  - slide active
+
+ ---
+
+## Javascript responsavel pelo slide esta localisado dentro do arquivo html "index.html"
+
+<h1>
+
+   <img src="imagens/Djavascript.jpg">
+
+</h1>
